@@ -11,14 +11,14 @@ Conway's Game of Life needs no introduction. Once you've read the rules, jump on
 
 ![Rules](/rulesplash.jpg "Rules")
 
-Go ahead and load a preset or even one of your saved boards:
-![Presets](/load.gif "Load") 
-
-
-Or start a new game from scratch:
+Start a new game from scratch:
 
 ![Movement](/movement.gif "Wow!")
 
+Or perhaps load a preset or one of your saved boards:
+
+![Presets](/load.gif "Load") 
 
 Was it awesome? Don't forget to save the initial state of your board!
+
 ![Save](/save.gif "Save")
