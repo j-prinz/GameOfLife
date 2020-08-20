@@ -1,6 +1,6 @@
 # Conway's Game of Life 👾✨
 
-Created by for CPSC 210 (2018S2)
+Created for CPSC 210 (2018S2)
 
 ### Technical Implementation Details
 * Built with Java Swing and lots of love
