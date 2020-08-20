@@ -7,7 +7,7 @@ Created by for CPSC 210 (2018S2)
 * Observer pattern keeps the whole thing running efficiently
 
 ## Project Overview
-Conway's Game of Life needs no introduction. Once you've read the rules, jump on in.
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) needs no introduction. Once you've read the rules, jump on in.
 
 ![Rules](/rulesplash.jpg "Rules")
 
