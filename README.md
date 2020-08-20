@@ -1,3 +1,12 @@
-# Conway's Game of Life
+# Conway's Game of Life 👾✨
 
-An implementation of the famous automaton created by Jessica Prinz for CPSC 210
+Created by for CPSC 210 (2018S2)
+
+### Technical Implementation Details
+* Built with Java Swing and lots of love
+* 
+
+## Project Overview
+Conway's Game of Life 
+
+![alt text](rulespalsh.jpg "Rules")
