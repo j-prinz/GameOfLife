@@ -9,4 +9,4 @@ Created by for CPSC 210 (2018S2)
 ## Project Overview
 Conway's Game of Life 
 
-![alt text](/rulespalsh.jpg "Rules")
+![Rules](/rulesplash.jpg "Rules")
